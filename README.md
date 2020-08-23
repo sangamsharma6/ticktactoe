@@ -1,6 +1,6 @@
-# ticktocktoe
+# ticktactoe
 
-A new Flutter application.
+A simple TicTacToe game developed in Flutters
 
 ## Getting Started
 
